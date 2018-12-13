@@ -48,7 +48,12 @@ hr {
 	margin-bottom: 60px; 
 }
 
-
+.btn-danger:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
 
 
 body {
